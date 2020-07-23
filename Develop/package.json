@@ -12,6 +12,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
   "bugs": {
     "url": "https://github.com/EMackPierre/Note-Taker/issues"
   },
